@@ -15,7 +15,7 @@ header p{
     font-weight: bold;
 }
 .nav-link{
-    color: black;
+    color: black!important;
     margin-right: 20px;
 }
 .header-btn{
