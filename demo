@@ -1,0 +1,15 @@
+<div class="card align-items-center">
+    <div class="card card-img align-items-center rounded my-3" style="width:90%">
+        <img src="images/jacket-1.png" class="card-img-top w-100 p-3" alt="...">
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Yellow Coat Jacket </h5>
+        <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry
+        </p>
+        <div>
+            <p>$234</p>
+            <button class="btn header-btn text-white w-25 rounded my-4 "><i
+                    class="fas fa-shopping-cart text-white me-2"></i>Buy Now</button>
+        </div>
+    </div>
+</div>
